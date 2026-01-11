@@ -60,3 +60,13 @@ The program uses a `struct` named `Register` to store user information (ID, name
 * Replace the fixed-size array with a dynamic data structure like a `std::vector`.
 * Add password hashing for improved security.
 * Refactor the code to remove `goto` and global variables for better programming practice.
+
+---
+
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
