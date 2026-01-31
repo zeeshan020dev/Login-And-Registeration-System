@@ -63,7 +63,7 @@ The program uses a `struct` named `Register` to store user information (ID, name
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 Co-Founder – Unicodrex | Technical Associate – Skill Sprint
