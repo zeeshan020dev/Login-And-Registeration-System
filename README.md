@@ -70,5 +70,7 @@ Co-Founder – Unicodrex | Technical Associate – Skill Sprint
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
-Kashaf Gillani
+**[Kashaf Gillani](https://github.com/Kashaf12609)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kashaf12609-black?logo=github)](https://github.com/Kashaf12609)
 
