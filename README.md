@@ -74,5 +74,5 @@ Co-Founder – Unicodrex | Technical Associate – Skill Sprint
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kashaf12609-black?logo=github)](https://github.com/Kashaf12609)
 
-* Syeda Hayqa Gillani 
+Syeda Hayqa Gillani 
 
