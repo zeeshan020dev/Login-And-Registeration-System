@@ -1,4 +1,4 @@
-# C++ Console Login & Registration System
+# Login & Registration System
 
 A simple, console-based user authentication system built with C++. This project provides basic functionalities for user registration, login, and account information recovery. It's designed as a straightforward demonstration of fundamental C++ concepts for beginners.
 
