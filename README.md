@@ -69,7 +69,9 @@ The program uses a `struct` named `Register` to store user information (ID, name
 
 Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/) | Trainee Game Developer – [CEGA](https://www.linkedin.com/company/cegaofficialpk/) | Prompt Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+<a href="https://github.com/zeeshan020dev">
+  <img src="https://img.shields.io/badge/GitHub-zeeshan020dev-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
 **[Kashaf Gillani](https://github.com/Kashaf12609)**
 
