@@ -67,7 +67,7 @@ The program uses a `struct` named `Register` to store user information (ID, name
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 
-Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Unity Game Developer – [CEGA](https://www.linkedin.com/company/cegaofficialpk/)
+Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Unity Game Developer
 
 <a href="https://github.com/zeeshan020dev">
   <img src="https://img.shields.io/badge/GitHub-zeeshan020dev-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
